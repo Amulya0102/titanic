@@ -11,4 +11,4 @@ Random forest was found out to be the most suited for the dataset
 
 https://user-images.githubusercontent.com/64580915/123612629-5a45a980-d820-11eb-927b-b0c7b7eaad34.jpeg
 
-./myFolder/readmeimage.jpeg
+
