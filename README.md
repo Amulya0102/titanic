@@ -8,3 +8,5 @@ The following model were used 1.Loagistic Regression 2.Support Vector Machine 3.
 THe pickled out hyperparameters settingss were used to validate and test the models to find out the best suited model for the purpose
 
 Random forest was found out to be the most suited for the dataset
+
+https://user-images.githubusercontent.com/64580915/123612629-5a45a980-d820-11eb-927b-b0c7b7eaad34.jpeg
